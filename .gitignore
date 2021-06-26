@@ -1,5 +1,6 @@
 node_modules
 test
+.husky
 
 yarn.lock
 yarn-error.log
